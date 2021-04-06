@@ -13,7 +13,7 @@ export const HeroCard = ({
         <div className="card mb-3" style={{maxWidth: 540}}>
             <div className="row g-0">
                 <div className="col-md-4">
-                    <img src={`../assets/${id}.jpg`} className="card-img" alt={superhero}></img>
+                    <img src={`./assets/${id}.jpg`} className="card-img" alt={superhero}></img>
                 </div>
                 <div className="col-md-8">
                     <div className="card-body">
