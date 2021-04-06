@@ -1,3 +1,15 @@
 # React Heroes App
 
-A simple react app using router and static data.
+React Single Page app using:
+
+* useContext
+* useReducer
+* Router
+* Private Routes
+* Public Routes
+* Login simulation
+* History
+* useMemo
+
+And testing of all of them
+
