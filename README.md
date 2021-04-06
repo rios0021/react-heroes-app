@@ -1,6 +1,6 @@
 # React Heroes App
 
-React Single Page app using:
+React Single Page app using and testing:
 
 * useContext
 * useReducer
@@ -10,6 +10,3 @@ React Single Page app using:
 * Login simulation
 * History
 * useMemo
-
-And testing of all of them
-
