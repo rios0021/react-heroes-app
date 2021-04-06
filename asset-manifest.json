@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-heroes-app/static/js/main.c609ea12.chunk.js",
-    "main.js.map": "/react-heroes-app/static/js/main.c609ea12.chunk.js.map",
+    "main.js": "/react-heroes-app/static/js/main.90fa6e79.chunk.js",
+    "main.js.map": "/react-heroes-app/static/js/main.90fa6e79.chunk.js.map",
     "runtime-main.js": "/react-heroes-app/static/js/runtime-main.d6c1e58b.js",
     "runtime-main.js.map": "/react-heroes-app/static/js/runtime-main.d6c1e58b.js.map",
-    "static/js/2.85c41768.chunk.js": "/react-heroes-app/static/js/2.85c41768.chunk.js",
-    "static/js/2.85c41768.chunk.js.map": "/react-heroes-app/static/js/2.85c41768.chunk.js.map",
+    "static/js/2.5771c5db.chunk.js": "/react-heroes-app/static/js/2.5771c5db.chunk.js",
+    "static/js/2.5771c5db.chunk.js.map": "/react-heroes-app/static/js/2.5771c5db.chunk.js.map",
     "index.html": "/react-heroes-app/index.html",
-    "static/js/2.85c41768.chunk.js.LICENSE.txt": "/react-heroes-app/static/js/2.85c41768.chunk.js.LICENSE.txt",
+    "static/js/2.5771c5db.chunk.js.LICENSE.txt": "/react-heroes-app/static/js/2.5771c5db.chunk.js.LICENSE.txt",
     "static/media/dc-arrow.jpg": "/react-heroes-app/static/media/dc-arrow.15b27bc2.jpg",
     "static/media/dc-batman.jpg": "/react-heroes-app/static/media/dc-batman.ab9eadc3.jpg",
     "static/media/dc-black.jpg": "/react-heroes-app/static/media/dc-black.3747c663.jpg",
@@ -31,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d6c1e58b.js",
-    "static/js/2.85c41768.chunk.js",
-    "static/js/main.c609ea12.chunk.js"
+    "static/js/2.5771c5db.chunk.js",
+    "static/js/main.90fa6e79.chunk.js"
   ]
 }
